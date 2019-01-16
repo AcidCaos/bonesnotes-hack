@@ -1,7 +1,5 @@
 # BonesNotes.cat User Tools
-After the closure of the platform (01-03-18), here's the software I developed for solving problems.
-Notice that some versions have the sign "OucastKing" so no one could know it was mine.
-
+Software tools Released for BonesNotes.cat (Platform closed: 01/03/2018)
 ### Software Release:
 
 04/08/2015: **Problem Solving** *CMD-based:* [Bonesnotes_Hack_Tool_v1.0.exe](Bonesnotes_Hack_Tool_v1.0.exe)\
@@ -30,7 +28,16 @@ Notice that some versions have the sign "OucastKing" so no one could know it was
 09/10/2016: **Problem Solving** *Web source code modifications:* [script.txt](script.txt)\
 10/10/2016: **Problem Solving**  *Windows ([UI](https://en.wikipedia.org/wiki/User_interface)) in C#:* [BonesNotes_Hack_Tool_Lite.exe](BonesNotes_Hack_Tool_Lite.exe) Lite Version\
 24/12/2016: **Problem Solving** *Web-based:* [index.html](index1.html)\
+18/03/2017: **Problem Solving**  *Windows ([UI](https://en.wikipedia.org/wiki/User_interface)) in C#:* [BonesNotes_farm.exe](BonesNotes_farm.exe) using [itextsharp.dll](itextsharp.dll). This version Searches and prints the solution.\
+06/05/2017: **Problem Solving**  *Windows ([UI](https://en.wikipedia.org/wiki/User_interface)) in C#:* [BonesNotes_Hack_Tool_Indev_0.2.exe](BonesNotes_Hack_Tool_Indev_0.2.exe)\
+
+12/05/2017: **Problem Solving**  *Windows ([UI](https://en.wikipedia.org/wiki/User_interface)) in C#:* [BonesNotes_AutoFarm_Alpha_0.01.rar](BonesNotes_AutoFarm_Alpha_0.01.rar) *run.js* (set EMAIL and PASSWORD)\
+12/05/2017: **Problem Solving**  *Windows ([UI](https://en.wikipedia.org/wiki/User_interface)) in C#:* [BonesNotes_AutoFarm_Alpha_0.02.rar](BonesNotes_AutoFarm_Alpha_0.02.rar) *login.js* (set EMAIL and PASSWORD)\
+13/05/2017: **Problem Solving**  *Windows ([UI](https://en.wikipedia.org/wiki/User_interface)) in C#:* [BonesNotes_AutoFarm_Alpha_0.03.rar](BonesNotes_AutoFarm_Alpha_0.03.rar) *login.js* (set EMAIL and PASSWORD)\
 03/08/2017: **Problem Solving** *Web-based:* [index.html](index2.html) + [source.js](source2.js) (Named this way and in the same folder)
+
+11/01/2018 **Problem Solving**  *Windows ([UI](https://en.wikipedia.org/wiki/User_interface)) in C#:* [BonesNotes_Manager_Alpha_3.rar](BonesNotes_Manager_Alpha_3.rar)\
+
 
 
 
