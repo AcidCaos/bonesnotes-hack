@@ -1,0 +1,1 @@
+$$('.answer_combo').each(function(element){ if(element.value==""){element.value=0;}});}
