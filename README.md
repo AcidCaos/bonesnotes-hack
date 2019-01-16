@@ -1,4 +1,4 @@
-# BonesNotes.cat Hack tools
+# BonesNotes.cat User Tools
 After the closure of the platform (01-03-18), here's the software I developed for solving problems.
 Notice that some versions have the sign "OucastKing" so no one could know it was mine.
 
@@ -21,6 +21,11 @@ Notice that some versions have the sign "OucastKing" so no one could know it was
 11/06/2016: **Problem Solving**  *Windows ([UI](https://en.wikipedia.org/wiki/User_interface)) in C#:* [BonesNotes_Hack_Tool_Beta_6.1.02.exe](BonesNotes_Hack_Tool_Beta_6.1.02.exe)\
 23/06/2016: **Problem Solving**  *Windows ([UI](https://en.wikipedia.org/wiki/User_interface)) in C#:* [BonesNotes_Hack_Tool_Beta_7.0.13.exe](BonesNotes_Hack_Tool_Beta_7.0.13.exe)\
 23/06/2016: **Problem Solving**  *Windows ([UI](https://en.wikipedia.org/wiki/User_interface)) in C#:* [BonesNotes_Hack_Tool_Beta_7.1.9.exe](BonesNotes_Hack_Tool_Beta_7.1.9.exe)\
+27/06/2016: **Problem Solving**  *Windows ([UI](https://en.wikipedia.org/wiki/User_interface)) in C#:* [BonesNotes_Hack_Tool_PreRelease_1.0.exe](BonesNotes_Hack_Tool_PreRelease_1.0.exe)\
+28/06/2016: **Problem Solving**  *Windows ([UI](https://en.wikipedia.org/wiki/User_interface)) in C#:* [BonesNotes_Hack_Tool_PreRelease_1.1.exe](BonesNotes_Hack_Tool_PreRelease_1.1.exe)\
+03/07/2016: **Problem Solving**  *Windows ([UI](https://en.wikipedia.org/wiki/User_interface)) in C#:* [BonesNotes_Hack_Tool_PreRelease_1.2.exe](BonesNotes_Hack_Tool_PreRelease_1.2.exe)\
+03/07/2016: **Problem Solving**  *Windows ([UI](https://en.wikipedia.org/wiki/User_interface)) in C#:* [BonesNotes_Hack_Tool_PreRelease_1.3.exe](BonesNotes_Hack_Tool_PreRelease_1.3.exe)\
+03/07/2016: **Problem Solving**  *Windows ([UI](https://en.wikipedia.org/wiki/User_interface)) in C#:* [BonesNotes_Hack_Tool_PreRelease_1.4.exe](BonesNotes_Hack_Tool_PreRelease_1.4.exe)\
 06/07/2016: **Problem Solving** *CMD-based:* Source File: [Bonesnotes_Hack.bat](Bonesnotes_Hack.bat)\
 09/10/2016: **Problem Solving** *Web source code modifications:* [script.txt](script.txt)\
 10/10/2016: **Problem Solving**  *Windows ([UI](https://en.wikipedia.org/wiki/User_interface)) in C#:* [BonesNotes_Hack_Tool_Lite.exe](BonesNotes_Hack_Tool_Lite.exe) Lite Version\
