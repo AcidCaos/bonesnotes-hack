@@ -30,14 +30,9 @@ Software tools Released for BonesNotes.cat (Platform closed: 01/03/2018)
 24/12/2016: **Problem Solving** *Web-based:* [index.html](index1.html)\
 18/03/2017: **Problem Solving**  *Windows ([UI](https://en.wikipedia.org/wiki/User_interface)) in C#:* [BonesNotes_farm.exe](BonesNotes_farm.exe) using [itextsharp.dll](itextsharp.dll). This version Searches and prints the solution.\
 06/05/2017: **Problem Solving**  *Windows ([UI](https://en.wikipedia.org/wiki/User_interface)) in C#:* [BonesNotes_Hack_Tool_Indev_0.2.exe](BonesNotes_Hack_Tool_Indev_0.2.exe)\
-
 12/05/2017: **Problem Solving**  *Windows ([UI](https://en.wikipedia.org/wiki/User_interface)) in C#:* [BonesNotes_AutoFarm_Alpha_0.01.rar](BonesNotes_AutoFarm_Alpha_0.01.rar) *run.js* (set EMAIL and PASSWORD)\
 12/05/2017: **Problem Solving**  *Windows ([UI](https://en.wikipedia.org/wiki/User_interface)) in C#:* [BonesNotes_AutoFarm_Alpha_0.02.rar](BonesNotes_AutoFarm_Alpha_0.02.rar) *login.js* (set EMAIL and PASSWORD)\
 13/05/2017: **Problem Solving**  *Windows ([UI](https://en.wikipedia.org/wiki/User_interface)) in C#:* [BonesNotes_AutoFarm_Alpha_0.03.rar](BonesNotes_AutoFarm_Alpha_0.03.rar) *login.js* (set EMAIL and PASSWORD)\
 03/08/2017: **Problem Solving** *Web-based:* [index.html](index2.html) + [source.js](source2.js) (Named this way and in the same folder)
-
-11/01/2018 **Problem Solving**  *Windows ([UI](https://en.wikipedia.org/wiki/User_interface)) in C#:* [BonesNotes_Manager_Alpha_3.rar](BonesNotes_Manager_Alpha_3.rar)\
-
-
-
-
+29/08/2017: **Problem Solving** *Javascript Browser Injection* [auto.js](auto.js) (Useful only for Dropdown-like answering Problems)
+11/01/2018: **Problem Solving**  *Windows ([UI](https://en.wikipedia.org/wiki/User_interface)) in C#:* [BonesNotes_Manager_Alpha_3.rar](BonesNotes_Manager_Alpha_3.rar) Public Version\
