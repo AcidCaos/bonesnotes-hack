@@ -1,8 +1,8 @@
 # BonesNotes.cat User Tools
-### By AcidCaos
-Software tools Released for BonesNotes.cat (Platform closed: 01/03/2018)
-### Software Release:
+Software tools Released for [BonesNotes.cat](http://www.bonesnotes.cat/) by AcidCaos.
+The Platform closed on March 1, 2018 and moved to [Clicat.eu](https://www.clicat.eu/).
 
+### Software Release:
 04/08/2015: **Problem Solving** *CMD-based:* [Bonesnotes_Hack_Tool_v1.0.exe](Bonesnotes_Hack_Tool_v1.0.exe)\
 05/08/2015: **Problem Solving** *CMD-based:* [Bonesnotes_Hack_Tool_v2.0.exe](Bonesnotes_Hack_Tool_v2.0.exe) and Source: [Download (.bat)](Bonesnotes_Hack_Tool_v2.0.bat)\
 05/08/2015: **Problem Solving** *CMD-based:* [Bonesnotes_Hack_Tool_v3.0_BETA.exe](Bonesnotes_Hack_Tool_v3.0_BETA.exe) and Source: [Download (.bat)](Bonesnotes_Hack_v3.0_BETA.bat)\
