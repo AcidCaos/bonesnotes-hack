@@ -35,4 +35,4 @@ Software tools Released for BonesNotes.cat (Platform closed: 01/03/2018)
 13/05/2017: **Problem Solving**  *Windows ([UI](https://en.wikipedia.org/wiki/User_interface)) in C#:* [BonesNotes_AutoFarm_Alpha_0.03.rar](BonesNotes_AutoFarm_Alpha_0.03.rar) *login.js* (set: EMAIL, PASSWORD)\
 03/08/2017: **Problem Solving** *Web-based:* [index.html](index2.html) + [source.js](source2.js) (Named this way and in the same folder)\
 29/08/2017: **Problem Solving** *Javascript Browser Injection* [auto.js](auto.js) (Useful only for Dropdown-like answering Problems)\
-11/01/2018: **Problem Solving**  *Windows ([UI](https://en.wikipedia.org/wiki/User_interface)) in C#:* [BonesNotes_Manager_Alpha_3.rar](BonesNotes_Manager_Alpha_3.rar) Public Version\
+11/01/2018: **Problem Solving**  *Windows ([UI](https://en.wikipedia.org/wiki/User_interface)) in C#:* [BonesNotes_Manager_Alpha_3.rar](BonesNotes_Manager_Alpha_3.rar) Public Version
